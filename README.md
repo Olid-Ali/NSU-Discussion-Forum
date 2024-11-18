@@ -1,8 +1,1 @@
-NSU Discussion Forum : A platform for NSU students to share ideas, reviews, and discuss.
-Features:
-User authentication
-Profile management
-Post, comment, and reply
-Feedback system
-Admin dashboard
-User and post management
+A platform for North South University students to engage in open discussions, share ideas, and provide reviews. Key features include user authentication, profile management, post creation, commenting, replying, feedback submission, and an admin dashboard for managing users, posts, and feedback.
